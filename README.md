@@ -1,2 +1,0 @@
-# vigilant-journey
-vigilant-jourvey
